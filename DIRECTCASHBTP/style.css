@@ -1,0 +1,52 @@
+.bg-body-primary {
+    background-color: #053e7c;
+}
+.bg-body-danger{
+    background-color: red;
+}
+
+.nav-link {
+    color: white;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+li {
+    margin-left: 20px;
+}
+
+.logo p {
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    justify-content: space-between;
+    padding-left: 60px;
+    margin-top: -45px;
+}
+
+
+ol li {
+
+    padding-top: 10px;
+    font-size: x-large;
+    margin-top: 8px;
+}
+
+h4 {
+    color: white;
+    font-size: 50px;
+}
+
+.special-list li {
+    padding-left: 25px;
+}
+
+.btn {
+    border-radius: 25px;
+}
+
+.h-body .spé ol li {
+    padding-top: 3px;
+    padding-bottom: 3px;
+
+}
